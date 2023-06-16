@@ -23,6 +23,8 @@ replace : Remplace les actions SELECT par REPLACE
 # ImportSQL
 Import SQL autonome
 
+Les bases de données que l'ont souhaite importer doivent être indiqué dans le fichier databases et celle à ignorer dans le fichier (1 ligne > 1 base)
+
 Variable necessaire : 
 - Hôte de la base de données
 - Utilisateur de la base de données
